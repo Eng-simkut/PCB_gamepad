@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ssd")(type "KiCad")(uri "${KIPRJMOD}/Library/ssd.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX30102_MODULE")(type "KiCad")(uri "${KIPRJMOD}/Library/MAX30102_MODULE.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX_MODULE")(type "KiCad")(uri "${KIPRJMOD}/Library/MAX_MODULE.kicad_sym")(options "")(descr ""))
+)

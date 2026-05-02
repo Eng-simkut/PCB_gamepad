@@ -1,0 +1,39 @@
+Info: Processing symbol 'A1:'.
+Info: Total warnings: 9, errors: 10.
+Info: Processing symbol 'C3:Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'C4:Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'C5:Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW3:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'U1:MODULE-MAX30102:MAX30102_MODULE_FOOTPRINT'.
+Info: Processing symbol 'U3:MODULE-MAX30102:SSD1306'.
+
+
+Warning: No net found for component U1 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U1 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U1 pad 9 (no pin 9 in symbol).
+Warning: No net found for component U1 pad 10 (no pin 10 in symbol).
+Warning: No net found for component U3 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U3 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U3 pad 10 (no pin 10 in symbol).
+Warning: No net found for component U3 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U3 pad 9 (no pin 9 in symbol).
+Error: Cannot add A1 (no footprint assigned).
+Error: U1 pad 2 not found in MODULE-MAX30102:MAX30102_MODULE_FOOTPRINT.
+Error: U1 pad 5 not found in MODULE-MAX30102:MAX30102_MODULE_FOOTPRINT.
+Error: U1 pad 4 not found in MODULE-MAX30102:MAX30102_MODULE_FOOTPRINT.
+Error: U1 pad 3 not found in MODULE-MAX30102:MAX30102_MODULE_FOOTPRINT.
+Error: U3 pad 4 not found in MODULE-MAX30102:SSD1306.
+Error: U3 pad 5 not found in MODULE-MAX30102:SSD1306.
+Error: U3 pad SCL not found in MODULE-MAX30102:SSD1306.
+Error: U3 pad SDA not found in MODULE-MAX30102:SSD1306.
+Error: U3 pad 1 not found in MODULE-MAX30102:SSD1306.
+
+
+Info: Total warnings: 9, errors: 10.
